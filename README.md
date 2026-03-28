@@ -31,6 +31,7 @@ The project also allows customization of:
 The program generates a QR code image file:
 
 ![QrCode Project](tanuj_choudhary.png). 
+
 Scan it using any QR scanner to view the text.
 
 
