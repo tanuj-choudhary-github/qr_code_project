@@ -30,7 +30,7 @@ The project also allows customization of:
 ## 🖼️ Output
 The program generates a QR code image file:
 
-`tanuj_choudhary.png`  
+![QrCode Project](tanuj_choudhary.png). 
 Scan it using any QR scanner to view the text.
 
 
